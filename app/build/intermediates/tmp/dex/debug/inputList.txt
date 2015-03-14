@@ -1,0 +1,1 @@
+/home/mattl/AndroidStudioProjects/libredroid/app/build/intermediates/classes/debug
